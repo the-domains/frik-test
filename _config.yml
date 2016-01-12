@@ -1,0 +1,14 @@
+layout_spectrum: 0.4579984
+color:
+  saturation: 0.03942652
+  brandStrength: 0.811828
+  lightness: 0.9173942
+  brandColors:
+    - '#918689'
+    - '#CE9C88'
+    - '#915339'
+    - '#30261F'
+    - '#FB9A65'
+  rhythmicContrast: 0.6755282
+typography_spectrum: 0.3683107
+name: 'Frik test '
