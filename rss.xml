@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Frik test ]]></title>
         <description><![CDATA[Frik test ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frik-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 22:18:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 22:25:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frik-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dc65415-6e41-4a15-8c41-17f6f86e60b8.jpg">]]></description>
+            <link>https://thegrid.ai/frik-test/4978be2b-45b6-4b6d-b8ae-344661ce3d04/index.html</link>
+            <guid isPermaLink="false">4978be2b-45b6-4b6d-b8ae-344661ce3d04</guid>
+            <pubDate>Tue, 12 Jan 2016 22:24:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b392291-0113-4887-8cb5-ebd3a203b663.jpg">]]></description>
-            <link>undefined97a6104d-1def-4c7e-bb7b-6156b2c64e11/index.html</link>
+            <link>https://thegrid.ai/frik-test/97a6104d-1def-4c7e-bb7b-6156b2c64e11/index.html</link>
             <guid isPermaLink="false">97a6104d-1def-4c7e-bb7b-6156b2c64e11</guid>
             <pubDate>Tue, 12 Jan 2016 22:18:16 GMT</pubDate>
         </item>
